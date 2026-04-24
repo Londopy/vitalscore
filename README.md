@@ -326,4 +326,4 @@ pytest
 
 ## License
 
-MIT © London Chowdhury
+MIT © 2026
