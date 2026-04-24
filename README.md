@@ -321,7 +321,7 @@ pytest
 ## Disclaimer
 
 `vitalscore` is a software tool intended to **support** clinical decision-making, not replace it. Always defer to qualified medical professionals and local clinical guidelines. The authors accept no liability for patient outcomes.
-
+> **[Read the full legal disclaimer →](DISCLAIMER.md)**
 ---
 
 ## License
