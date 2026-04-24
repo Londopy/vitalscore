@@ -9,7 +9,6 @@ description = "Clinical scoring calculators: GCS, AVPU, APGAR, START, NEWS2, qSO
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "London Chowdhury" }]
 keywords = ["clinical", "medical", "triage", "scoring", "EMS", "GCS", "NEWS2"]
 classifiers = [
     "Programming Language :: Python :: 3",
